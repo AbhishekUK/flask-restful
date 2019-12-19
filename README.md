@@ -4,7 +4,7 @@
 [![Coverage Status](http://img.shields.io/coveralls/flask-restful/flask-restful/master.svg)](https://coveralls.io/r/flask-restful/flask-restful)
 [![PyPI Version](http://img.shields.io/pypi/v/Flask-RESTful.svg)](https://pypi.python.org/pypi/Flask-RESTful)
 
-Flask-RESTful provides the building blocks for creating a great REST API.
+Flask-RESTful provides the building blocks for creating a great REST API..
 
 ## User Guide
 
